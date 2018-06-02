@@ -5,7 +5,7 @@
 https://github.com/huangkumao/ConfigTools
 
 2: 动作技能编辑器项目
-https://github.com/yimengfan/PosePlus_FTG
+https://github.com/yimengfan/PosePlus_FTG   
 https://github.com/yimengfan/PosePlus_TBS
 
 3: AB打包加载
