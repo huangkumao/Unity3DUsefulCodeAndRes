@@ -34,3 +34,6 @@ https://github.com/egametang/ET
 
 11: 针对Unity的Reactive异步处理扩展
 https://github.com/neuecc/UniRx
+
+12: UnityShader VS插件
+http://blog.shuiguzi.com/2014/10/28/Release/
