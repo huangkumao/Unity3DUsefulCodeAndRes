@@ -37,3 +37,6 @@ https://github.com/neuecc/UniRx
 
 12: UnityShader VS插件
 http://blog.shuiguzi.com/2014/10/28/Release/
+
+13: Unity游戏常用算法
+https://github.com/IceLanguage/LinHowe_GameAlgorithm
